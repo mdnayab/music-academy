@@ -54,7 +54,7 @@ const config: Config = {
     extend: {
       animation:{
         spotlight: "spotlight 2s ease .75s 1 forwards",
-        scroll: "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite"
+        scroll: "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
       },
       colors: {
         background: "var(--background)",
